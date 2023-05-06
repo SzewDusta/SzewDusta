@@ -2,11 +2,6 @@
 
 ![SzewDusta's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzewDusta&show_icons=true&theme=tokyonight)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzewDusta&layout=compact)](https://github.com/SzewDusta/github-readme-stats)
-**My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561198817701599/?cc=pl))*
-* **Value:** 225zł
-* **Games owned:** 111
-* **Games played:** 48 *(43%)*
-* **Hours on record:** 913.6h
 <!--
 **SzewDusta/SzewDusta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
